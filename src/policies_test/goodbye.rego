@@ -1,4 +1,4 @@
-package policies.test.goodbye
+package policies_test.goodbye
 
 # default to a "closed" system, 
 # only grant access when explicitly granted
