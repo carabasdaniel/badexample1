@@ -1,4 +1,4 @@
-package foo.goodbye
+package policies.goodbye
 
 # default to a "closed" system, 
 # only grant access when explicitly granted
